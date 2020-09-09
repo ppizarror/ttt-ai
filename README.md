@@ -1,5 +1,4 @@
-# Proyecto
-
+# TTT-AI
 El archivo ttt_ai.cpp es el codigo principal, en el se entrena la red mediante un algoritmo genetico,
 el siguiente comando permite compilarlo:
 
@@ -12,3 +11,6 @@ El archivo Tinn.c es la implementacion de una red neuronal simple en C, se compi
 El archivo test.cpp permite jugar con la red neural generada por ttt_ai.cpp
 
 mejor_red es un archivo que contiene una red ya generada por ttt_ai.cpp y esta lista para ser usada por test.cpp
+
+Autor: Matías Ramirez
+Curso: CC7515-1 Computación en GPU 2020, Universidad de Chile
